@@ -38,4 +38,6 @@ dependencies {
     compile files('libs/httpclient-4.0.jar')
     compile files('libs/httpcore-4.0.jar')
     compile files('libs/twilio-ip-messaging-android.jar')
+    compile files('libs/twilio-common-android.jar')
+
 }
